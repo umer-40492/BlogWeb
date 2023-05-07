@@ -1,0 +1,47 @@
+.main{
+    width: 100%;
+    background: #1E1B1B;
+    opacity: 0.98;
+    height: 549px;
+    display: flex;
+}
+.socialDiv{
+    margin: 128px 0  0 320px;
+}
+.socialDiv h4{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    margin: 0;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+.logoSection{
+    display: flex;
+    width: 167.01px;
+    justify-content: space-between;
+    margin-top: 64px;
+}
+.icon{
+    width: 24px;
+
+}
+.contactUs{
+    margin: 128px 0 0 193px;
+}
+.info h6{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 175%;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin:32px 0  0;
+}
+.info p{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    margin: 0;
+}

@@ -1,0 +1,39 @@
+nav{
+    background-color: white;
+    width: 100%;
+    height: 90px;
+    box-sizing: border-box;
+    padding: 0 220px;
+    display: flex;
+    justify-content: space-between;
+}
+.finlogo{
+    Width: 121.41px;
+    Height: 27.43px;
+    margin-top: 31px;
+}
+.finlogo svg{
+    fill: black;
+}
+.menu{
+    width: 428px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu h6{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1E1B1B;
+    margin: 31px 0;
+}
+.copyright{
+    display: none;
+}
+.copyright  p {
+    margin: 30px 0 0;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #939191;
+}
